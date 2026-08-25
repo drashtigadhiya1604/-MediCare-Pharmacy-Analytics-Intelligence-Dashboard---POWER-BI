@@ -1,0 +1,51 @@
+Store_ID,Store_Name,City,State,Region_ID,Store_Type,Opening_Date
+ST001,MediCare Pharmacy - Ahmedabad,Ahmedabad,Gujarat,1,Retail Pharmacy,2015-02-05
+ST002,MediCare Pharmacy - Surat,Surat,Gujarat,1,Retail Pharmacy,2015-03-12
+ST003,MediCare Pharmacy - Vadodara,Vadodara,Gujarat,1,Retail Pharmacy,2015-04-16
+ST004,MediCare Pharmacy - Rajkot,Rajkot,Gujarat,1,Retail Pharmacy,2015-05-21
+ST005,MediCare Pharmacy - Mumbai,Mumbai,Maharashtra,2,Retail Pharmacy,2015-06-25
+ST006,MediCare Pharmacy - Pune,Pune,Maharashtra,2,Retail Pharmacy,2015-07-30
+ST007,MediCare Pharmacy - Nagpur,Nagpur,Maharashtra,2,Retail Pharmacy,2015-09-03
+ST008,MediCare Pharmacy - Nashik,Nashik,Maharashtra,2,Retail Pharmacy,2015-10-08
+ST009,MediCare Pharmacy - Delhi,Delhi,Delhi,3,Retail Pharmacy,2015-11-12
+ST010,MediCare Pharmacy - Jaipur,Jaipur,Rajasthan,4,Retail Pharmacy,2015-12-17
+ST011,MediCare Pharmacy - Udaipur,Udaipur,Rajasthan,4,Retail Pharmacy,2016-01-21
+ST012,MediCare Pharmacy - Jodhpur,Jodhpur,Rajasthan,4,Retail Pharmacy,2016-02-25
+ST013,MediCare Pharmacy - Indore,Indore,Madhya Pradesh,5,Retail Pharmacy,2016-03-31
+ST014,MediCare Pharmacy - Bhopal,Bhopal,Madhya Pradesh,5,Retail Pharmacy,2016-05-05
+ST015,MediCare Pharmacy - Lucknow,Lucknow,Uttar Pradesh,6,Retail Pharmacy,2016-06-09
+ST016,MediCare Pharmacy - Kanpur,Kanpur,Uttar Pradesh,6,Retail Pharmacy,2016-07-14
+ST017,MediCare Pharmacy - Chandigarh,Chandigarh,Chandigarh,7,Retail Pharmacy,2016-08-18
+ST018,MediCare Pharmacy - Ludhiana,Ludhiana,Punjab,7,Retail Pharmacy,2016-09-22
+ST019,MediCare Pharmacy - Amritsar,Amritsar,Punjab,7,Retail Pharmacy,2016-10-27
+ST020,MediCare Pharmacy - Kolkata,Kolkata,West Bengal,8,Retail Pharmacy,2016-12-01
+ST021,MediCare Pharmacy - Howrah,Howrah,West Bengal,8,Retail Pharmacy,2017-01-05
+ST022,MediCare Pharmacy - Bhubaneswar,Bhubaneswar,Odisha,9,Retail Pharmacy,2017-02-09
+ST023,MediCare Pharmacy - Cuttack,Cuttack,Odisha,9,Retail Pharmacy,2017-03-16
+ST024,MediCare Pharmacy - Hyderabad,Hyderabad,Telangana,10,Retail Pharmacy,2017-04-20
+ST025,MediCare Pharmacy - Warangal,Warangal,Telangana,10,Retail Pharmacy,2017-05-25
+ST026,MediCare Pharmacy - Chennai,Chennai,Tamil Nadu,11,Retail Pharmacy,2017-06-29
+ST027,MediCare Pharmacy - Coimbatore,Coimbatore,Tamil Nadu,11,Retail Pharmacy,2017-08-03
+ST028,MediCare Pharmacy - Madurai,Madurai,Tamil Nadu,11,Retail Pharmacy,2017-09-07
+ST029,MediCare Pharmacy - Bengaluru,Bengaluru,Karnataka,12,Retail Pharmacy,2017-10-12
+ST030,MediCare Pharmacy - Mysuru,Mysuru,Karnataka,12,Retail Pharmacy,2017-11-16
+ST031,MediCare Pharmacy - Mangalore,Mangalore,Karnataka,12,Hospital Pharmacy,2017-12-21
+ST032,MediCare Pharmacy - Kochi,Kochi,Kerala,13,Hospital Pharmacy,2018-01-25
+ST033,MediCare Pharmacy - Thiruvananthapuram,Thiruvananthapuram,Kerala,13,Hospital Pharmacy,2018-03-01
+ST034,MediCare Pharmacy - Kozhikode,Kozhikode,Kerala,13,Hospital Pharmacy,2018-04-05
+ST035,MediCare Pharmacy - Patna,Patna,Bihar,14,Hospital Pharmacy,2018-05-10
+ST036,MediCare Pharmacy - Ranchi,Ranchi,Jharkhand,15,Hospital Pharmacy,2018-06-14
+ST037,MediCare Pharmacy - Raipur,Raipur,Chhattisgarh,16,Hospital Pharmacy,2018-07-19
+ST038,MediCare Pharmacy - Guwahati,Guwahati,Assam,17,Hospital Pharmacy,2018-08-23
+ST039,MediCare Pharmacy - Shillong,Shillong,Meghalaya,17,Wholesale Distribution Center,2018-09-27
+ST040,MediCare Pharmacy - Goa,Goa,Goa,18,Wholesale Distribution Center,2018-11-01
+ST041,MediCare Pharmacy - Visakhapatnam,Visakhapatnam,Andhra Pradesh,19,Wholesale Distribution Center,2018-12-06
+ST042,MediCare Pharmacy - Vijayawada,Vijayawada,Andhra Pradesh,19,Wholesale Distribution Center,2019-01-10
+ST043,MediCare Pharmacy - Tirupati,Tirupati,Andhra Pradesh,19,Wholesale Distribution Center,2019-02-14
+ST044,MediCare Pharmacy - Dehradun,Dehradun,Uttarakhand,20,Online Fulfillment Center,2019-03-21
+ST045,MediCare Pharmacy - Haridwar,Haridwar,Uttarakhand,20,Online Fulfillment Center,2019-04-25
+ST046,MediCare Pharmacy - Noida,Noida,Uttar Pradesh,6,Franchise Store,2019-05-30
+ST047,MediCare Pharmacy - Gurugram,Gurugram,Haryana,21,Franchise Store,2019-07-04
+ST048,MediCare Pharmacy - Faridabad,Faridabad,Haryana,21,Franchise Store,2019-08-08
+ST049,MediCare Pharmacy - Siliguri,Siliguri,West Bengal,8,Flagship Store,2019-09-12
+ST050,MediCare Pharmacy - Aurangabad,Aurangabad,Maharashtra,2,Flagship Store,2019-10-17
