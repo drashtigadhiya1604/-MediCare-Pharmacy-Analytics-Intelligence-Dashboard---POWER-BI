@@ -1,0 +1,13 @@
+Category_ID,Category_Name,Parent_Category
+1,Antibiotics,Prescription Medicines
+2,Pain Relief,Prescription Medicines
+3,Diabetes,Chronic Care
+4,Cardiology,Chronic Care
+5,Gastro,Prescription Medicines
+6,Vitamins,Wellness & Nutrition
+7,Baby Care,Personal Care
+8,OTC,Over-the-Counter
+9,Personal Care,Personal Care
+10,Surgical,Medical Supplies
+11,Dermatology,Prescription Medicines
+12,Respiratory,Prescription Medicines
