@@ -1,0 +1,81 @@
+Supplier_ID,Supplier_Name,Contact,City,State,GST_No,Supplier_Rating,Lead_Time
+SUP001,Shroff-Seth Pharma Supplies,2879217421,Hyderabad,Telangana,37ABCDE00001F1Z8,4,9
+SUP002,Sethi-Dugar Pharma Supplies,8100339075,Bengaluru,Karnataka,37ABCDE00002F1Z9,3,4
+SUP003,"Kaur, Menon and Tata Pharma Supplies",1746814538,Bengaluru,Karnataka,25ABCDE00003F1Z9,3,3
+SUP004,"Chokshi, Rattan and Chokshi Pharma Supplies",6100330766,Hyderabad,Telangana,19ABCDE00004F1Z2,3,10
+SUP005,"Issac, Madan and Nayar Pharma Supplies",4506123100,Ahmedabad,Gujarat,29ABCDE00005F1Z6,4,12
+SUP006,"Guha, Sem and Upadhyay Pharma Supplies",2661663049,Chennai,Tamil Nadu,30ABCDE00006F1Z2,5,2
+SUP007,Ramesh PLC Pharma Supplies,237409546,Bengaluru,Karnataka,12ABCDE00007F1Z0,3,5
+SUP008,Kibe Inc Pharma Supplies,5972979262,Mumbai,Maharashtra,29ABCDE00008F1Z0,4,7
+SUP009,"Krish, Gupta and Dutt Pharma Supplies",6791601108,Hyderabad,Telangana,28ABCDE00009F1Z3,5,5
+SUP010,Salvi-Swaminathan Pharma Supplies,8212378991,Pune,Maharashtra,25ABCDE00010F1Z0,5,3
+SUP011,"Babu, Biswas and Luthra Pharma Supplies",7300245892,Hyderabad,Telangana,30ABCDE00011F1Z4,4,10
+SUP012,Narayanan-Vig Pharma Supplies,9007540091,Surat,Gujarat,32ABCDE00012F1Z4,4,14
+SUP013,Deshpande-Bora Pharma Supplies,7850255171,Mumbai,Maharashtra,26ABCDE00013F1Z4,3,3
+SUP014,"Atwal, Raja and Raghavan Pharma Supplies",9111146569,Chennai,Tamil Nadu,34ABCDE00014F1Z1,4,3
+SUP015,"Chacko, Venkataraman and Varkey Pharma Supplies",4917031797,Pune,Maharashtra,22ABCDE00015F1Z1,3,15
+SUP016,Dhar-Jain Pharma Supplies,5773564363,Ahmedabad,Gujarat,16ABCDE00016F1Z3,3,9
+SUP017,"Nadig, Kadakia and Deshpande Pharma Supplies",7501421774,Delhi,Delhi,32ABCDE00017F1Z6,4,3
+SUP018,"Venkatesh, Tak and Murty Pharma Supplies",5104904954,Chennai,Tamil Nadu,30ABCDE00018F1Z3,5,6
+SUP019,Sha-Gupta Pharma Supplies,4320171851,Jaipur,Rajasthan,12ABCDE00019F1Z4,4,2
+SUP020,Gokhale-Apte Pharma Supplies,8023458889,Delhi,Delhi,34ABCDE00020F1Z1,3,5
+SUP021,Roy Ltd Pharma Supplies,2773068985,Surat,Gujarat,10ABCDE00021F1Z0,4,14
+SUP022,Dasgupta and Sons Pharma Supplies,6148540581,Hyderabad,Telangana,15ABCDE00022F1Z8,3,9
+SUP023,"Sama, Maharaj and Sura Pharma Supplies",3160285272,Bengaluru,Karnataka,16ABCDE00023F1Z2,4,12
+SUP024,Chadha-Kant Pharma Supplies,8848288844,Delhi,Delhi,13ABCDE00024F1Z6,4,5
+SUP025,Dhaliwal-Viswanathan Pharma Supplies,9736818096,Ahmedabad,Gujarat,18ABCDE00025F1Z9,4,2
+SUP026,"Rattan, Dara and Swaminathan Pharma Supplies",2187664377,Mumbai,Maharashtra,15ABCDE00026F1Z6,5,12
+SUP027,Vohra-Nadig Pharma Supplies,3690420032,Chennai,Tamil Nadu,13ABCDE00027F1Z0,3,5
+SUP028,Pant-Konda Pharma Supplies,1791894386,Hyderabad,Telangana,18ABCDE00028F1Z0,5,7
+SUP029,"Dutta, Yohannan and Jayaraman Pharma Supplies",8389923525,Pune,Maharashtra,22ABCDE00029F1Z1,3,3
+SUP030,Hayer Inc Pharma Supplies,3214616682,Mumbai,Maharashtra,28ABCDE00030F1Z3,3,11
+SUP031,Iyer PLC Pharma Supplies,5185831710,Jaipur,Rajasthan,21ABCDE00031F1Z9,4,4
+SUP032,"Srivastava, Din and Gupta Pharma Supplies",1322419027,Chennai,Tamil Nadu,25ABCDE00032F1Z9,3,15
+SUP033,Sibal-Sandhu Pharma Supplies,6395003267,Delhi,Delhi,15ABCDE00033F1Z2,4,5
+SUP034,Gandhi Inc Pharma Supplies,5169938954,Chennai,Tamil Nadu,17ABCDE00034F1Z3,3,13
+SUP035,Deol-Narayan Pharma Supplies,6263215471,Bengaluru,Karnataka,16ABCDE00035F1Z6,4,11
+SUP036,Kata LLC Pharma Supplies,5369281687,Surat,Gujarat,23ABCDE00036F1Z0,3,3
+SUP037,"Bajaj, Contractor and Chokshi Pharma Supplies",4768036014,Ahmedabad,Gujarat,26ABCDE00037F1Z4,3,13
+SUP038,"Zachariah, Trivedi and Sagar Pharma Supplies",7189062672,Delhi,Delhi,18ABCDE00038F1Z6,5,9
+SUP039,"Bhardwaj, Sanghvi and Talwar Pharma Supplies",4869458474,Pune,Maharashtra,26ABCDE00039F1Z2,5,3
+SUP040,Atwal and Sons Pharma Supplies,2660560951,Vadodara,Gujarat,17ABCDE00040F1Z7,5,12
+SUP041,Kohli-Bath Pharma Supplies,7239109671,Chennai,Tamil Nadu,29ABCDE00041F1Z1,4,5
+SUP042,"Dubey, Dash and Patla Pharma Supplies",2679496582,Mumbai,Maharashtra,33ABCDE00042F1Z0,3,6
+SUP043,Comar-Thakur Pharma Supplies,8954499934,Delhi,Delhi,24ABCDE00043F1Z3,3,2
+SUP044,"Hayre, Baral and Bhat Pharma Supplies",4460901384,Vadodara,Gujarat,19ABCDE00044F1Z5,5,11
+SUP045,"Keer, Prakash and Sule Pharma Supplies",5355721179,Vadodara,Gujarat,12ABCDE00045F1Z5,3,9
+SUP046,"Kuruvilla, Ramakrishnan and Dora Pharma Supplies",2954826591,Jaipur,Rajasthan,31ABCDE00046F1Z8,5,4
+SUP047,"Chacko, Sankaran and Sundaram Pharma Supplies",4014391475,Chennai,Tamil Nadu,11ABCDE00047F1Z0,4,7
+SUP048,Narain-Peri Pharma Supplies,5799478475,Pune,Maharashtra,11ABCDE00048F1Z0,5,12
+SUP049,Chad LLC Pharma Supplies,569639568,Surat,Gujarat,25ABCDE00049F1Z1,5,6
+SUP050,Goda Inc Pharma Supplies,4038082940,Jaipur,Rajasthan,14ABCDE00050F1Z1,3,9
+SUP051,"Mody, Chad and Natt Pharma Supplies",4151021633,Bengaluru,Karnataka,21ABCDE00051F1Z0,5,13
+SUP052,Ramesh-Palla Pharma Supplies,5277819065,Vadodara,Gujarat,35ABCDE00052F1Z5,4,3
+SUP053,Bajwa-Viswanathan Pharma Supplies,166232625,Hyderabad,Telangana,12ABCDE00053F1Z6,3,15
+SUP054,"Master, Mahal and Bhargava Pharma Supplies",4142207097,Hyderabad,Telangana,28ABCDE00054F1Z0,5,12
+SUP055,Gour LLC Pharma Supplies,9397983724,Delhi,Delhi,22ABCDE00055F1Z9,3,11
+SUP056,"Srinivas, Lad and Sundaram Pharma Supplies",5817360326,Surat,Gujarat,12ABCDE00056F1Z1,5,3
+SUP057,Khanna Inc Pharma Supplies,5736926252,Pune,Maharashtra,23ABCDE00057F1Z5,4,13
+SUP058,"Lata, Varty and Warrior Pharma Supplies",2920322154,Chennai,Tamil Nadu,24ABCDE00058F1Z7,4,15
+SUP059,Sidhu-Butala Pharma Supplies,363173086,Bengaluru,Karnataka,12ABCDE00059F1Z8,5,2
+SUP060,Mutti-Mukhopadhyay Pharma Supplies,1847151216,Pune,Maharashtra,29ABCDE00060F1Z1,4,2
+SUP061,Purohit Ltd Pharma Supplies,3491703924,Mumbai,Maharashtra,32ABCDE00061F1Z1,4,14
+SUP062,Ramanathan-Chahal Pharma Supplies,3361544975,Chennai,Tamil Nadu,31ABCDE00062F1Z7,4,2
+SUP063,Dhaliwal PLC Pharma Supplies,2223607911,Jaipur,Rajasthan,19ABCDE00063F1Z2,5,11
+SUP064,Saraf Group Pharma Supplies,5682326756,Mumbai,Maharashtra,26ABCDE00064F1Z2,4,12
+SUP065,"Nadkarni, Konda and Wagle Pharma Supplies",4535471863,Hyderabad,Telangana,25ABCDE00065F1Z3,4,8
+SUP066,Dutt LLC Pharma Supplies,8359882938,Pune,Maharashtra,16ABCDE00066F1Z6,3,5
+SUP067,"Hora, Chacko and Deshpande Pharma Supplies",7965515471,Delhi,Delhi,17ABCDE00067F1Z9,4,5
+SUP068,"Bhatt, Lalla and Ganguly Pharma Supplies",9210453952,Vadodara,Gujarat,14ABCDE00068F1Z7,4,15
+SUP069,Sha Inc Pharma Supplies,2246990236,Ahmedabad,Gujarat,32ABCDE00069F1Z1,4,15
+SUP070,"Raju, Dani and Ravi Pharma Supplies",5824395002,Vadodara,Gujarat,13ABCDE00070F1Z7,4,6
+SUP071,Singhal LLC Pharma Supplies,9964776619,Mumbai,Maharashtra,36ABCDE00071F1Z6,4,12
+SUP072,"Verma, Sankaran and Salvi Pharma Supplies",5049669549,Bengaluru,Karnataka,25ABCDE00072F1Z5,5,15
+SUP073,Kibe-Thakkar Pharma Supplies,718384631,Chennai,Tamil Nadu,24ABCDE00073F1Z5,3,15
+SUP074,"Gala, Kapadia and Sama Pharma Supplies",1182189704,Ahmedabad,Gujarat,18ABCDE00074F1Z9,3,12
+SUP075,Gera-Bhatnagar Pharma Supplies,7862593040,Pune,Maharashtra,28ABCDE00075F1Z5,4,12
+SUP076,Tara-Dhar Pharma Supplies,3340355702,Chennai,Tamil Nadu,10ABCDE00076F1Z2,4,9
+SUP077,"Keer, Handa and Bedi Pharma Supplies",4546257612,Mumbai,Maharashtra,10ABCDE00077F1Z4,3,14
+SUP078,"Hegde, Luthra and Golla Pharma Supplies",8445819834,Vadodara,Gujarat,35ABCDE00078F1Z0,5,3
+SUP079,Chana Group Pharma Supplies,7818009948,Hyderabad,Telangana,13ABCDE00079F1Z8,5,12
+SUP080,Gala LLC Pharma Supplies,3248022097,Jaipur,Rajasthan,12ABCDE00080F1Z3,3,15

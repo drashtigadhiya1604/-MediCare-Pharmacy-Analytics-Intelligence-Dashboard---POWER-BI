@@ -1,0 +1,121 @@
+Employee_ID,Employee_Name,Designation,Department,Store_ID,Manager,Joining_Date,Salary
+EMP001,Jagrati Wagle,Inventory Executive,Inventory,ST017,Nisha Shah,2020-09-15,42000
+EMP002,Zaid Ben,Warehouse Executive,Warehouse,ST048,Amit Sharma,2025-12-09,35000
+EMP003,Kamya Singh,Cashier,Sales,ST042,Amit Sharma,2025-09-29,24000
+EMP004,Harsh Krish,Pharmacist,Pharmacy Operations,ST024,Rohit Joshi,2020-08-11,42000
+EMP005,Nikita Mammen,Sales Executive,Sales,ST035,Priya Patel,2021-08-17,37000
+EMP006,Nathaniel Bora,Cashier,Sales,ST001,Vikram Mehta,2021-05-14,28000
+EMP007,Jonathan Deo,Store Manager,Pharmacy Operations,ST012,Karan Patel,2020-07-17,70000
+EMP008,Shaurya Kale,Pharmacist,Pharmacy Operations,ST009,Rohit Joshi,2026-04-18,39000
+EMP009,Ojas Mann,Cashier,Sales,ST001,Amit Sharma,2022-06-01,25000
+EMP010,Samarth Gopal,Cashier,Sales,ST011,Rajesh Kumar,2026-03-07,26000
+EMP011,Leela Misra,Store Manager,Pharmacy Operations,ST013,Vikram Mehta,2020-08-30,70000
+EMP012,Noah Dhingra,Warehouse Executive,Warehouse,ST013,Karan Patel,2022-02-12,32000
+EMP013,Charvi Aggarwal,Pharmacist,Pharmacy Operations,ST024,Karan Patel,2024-02-10,40000
+EMP014,Dominic Mukherjee,Cashier,Sales,ST017,Priya Patel,2022-08-31,27000
+EMP015,Vasana Mutti,Store Manager,Pharmacy Operations,ST039,Amit Sharma,2021-08-23,84000
+EMP016,Patrick Bhandari,Warehouse Executive,Warehouse,ST046,Nisha Shah,2022-01-26,29000
+EMP017,Ishita Raval,Store Manager,Pharmacy Operations,ST023,Rahul Verma,2020-08-22,80000
+EMP018,Jasmit Puri,Warehouse Executive,Warehouse,ST021,Rajesh Kumar,2024-01-03,35000
+EMP019,Sneha Batra,Sales Executive,Sales,ST046,Rajesh Kumar,2024-10-12,28000
+EMP020,Jagat Korpal,Store Manager,Pharmacy Operations,ST002,Nisha Shah,2026-02-10,77000
+EMP021,Hemangini Vala,Pharmacist,Pharmacy Operations,ST036,Karan Patel,2022-08-30,46000
+EMP022,Turvi Chokshi,Sales Executive,Sales,ST038,Amit Sharma,2024-01-27,35000
+EMP023,Chakrika Bansal,Pharmacist,Pharmacy Operations,ST046,Rajesh Kumar,2023-02-18,41000
+EMP024,Sathvik Oak,Pharmacist,Pharmacy Operations,ST049,Vikram Mehta,2023-08-12,49000
+EMP025,Manbir Oak,Store Manager,Pharmacy Operations,ST033,Nisha Shah,2022-03-10,81000
+EMP026,Devika Nadig,Store Manager,Pharmacy Operations,ST050,Rohit Joshi,2022-05-16,68000
+EMP027,Manthan More,Inventory Executive,Inventory,ST048,Nisha Shah,2026-07-07,34000
+EMP028,Chanakya Buch,Pharmacist,Pharmacy Operations,ST028,Priya Patel,2026-06-15,41000
+EMP029,Azad Khanna,Store Manager,Pharmacy Operations,ST033,Nisha Shah,2024-12-23,69000
+EMP030,Zashil Shah,Store Manager,Pharmacy Operations,ST018,Priya Patel,2024-06-09,74000
+EMP031,Daksh Bali,Warehouse Executive,Warehouse,ST021,Rahul Verma,2025-05-06,30000
+EMP032,Sarthak De,Pharmacist,Pharmacy Operations,ST041,Rajesh Kumar,2026-06-04,44000
+EMP033,Odika Chhabra,Sales Executive,Sales,ST011,Amit Sharma,2021-07-19,29000
+EMP034,Manthan Bhargava,Inventory Executive,Inventory,ST035,Karan Patel,2025-08-08,30000
+EMP035,Lohit Setty,Cashier,Sales,ST048,Nisha Shah,2026-01-25,26000
+EMP036,Sudiksha Sura,Sales Executive,Sales,ST042,Karan Patel,2024-08-31,30000
+EMP037,Varenya Mahal,Pharmacist,Pharmacy Operations,ST041,Amit Sharma,2022-04-12,50000
+EMP038,Manan Chowdhury,Store Manager,Pharmacy Operations,ST014,Rajesh Kumar,2022-10-18,88000
+EMP039,Xalak Nigam,Inventory Executive,Inventory,ST009,Karan Patel,2021-08-12,31000
+EMP040,Anita Varma,Cashier,Sales,ST028,Nisha Shah,2025-03-24,24000
+EMP041,Dev Parekh,Pharmacist,Pharmacy Operations,ST027,Rahul Verma,2024-09-13,39000
+EMP042,Damini Patla,Sales Executive,Sales,ST040,Rajesh Kumar,2023-11-22,36000
+EMP043,Vedika Lanka,Sales Executive,Sales,ST032,Nisha Shah,2025-02-25,35000
+EMP044,Harini Gokhale,Store Manager,Pharmacy Operations,ST019,Rohit Joshi,2024-01-07,77000
+EMP045,Urvi Krishna,Cashier,Sales,ST008,Karan Patel,2022-06-28,30000
+EMP046,Ubika Mani,Cashier,Sales,ST041,Rohit Joshi,2025-06-08,27000
+EMP047,Ijaya Mahal,Cashier,Sales,ST006,Rohit Joshi,2024-05-25,26000
+EMP048,Inaya Gera,Inventory Executive,Inventory,ST036,Nisha Shah,2025-10-02,31000
+EMP049,Janya Natt,Store Manager,Pharmacy Operations,ST045,Amit Sharma,2023-08-23,89000
+EMP050,Rushil Pathak,Store Manager,Pharmacy Operations,ST024,Rahul Verma,2026-02-27,80000
+EMP051,Barkha Brar,Store Manager,Pharmacy Operations,ST050,Rahul Verma,2024-11-07,75000
+EMP052,Onveer Varty,Warehouse Executive,Warehouse,ST012,Amit Sharma,2024-07-11,35000
+EMP053,Chasmum Madan,Inventory Executive,Inventory,ST050,Rahul Verma,2024-11-09,35000
+EMP054,Rohan Dutta,Warehouse Executive,Warehouse,ST018,Rohit Joshi,2024-01-20,32000
+EMP055,Theodore Gole,Inventory Executive,Inventory,ST042,Nisha Shah,2024-04-26,35000
+EMP056,Urishilla Kara,Store Manager,Pharmacy Operations,ST042,Nisha Shah,2021-07-12,88000
+EMP057,Indrajit Nadig,Sales Executive,Sales,ST023,Rajesh Kumar,2026-05-05,39000
+EMP058,Rishi Banik,Sales Executive,Sales,ST024,Nisha Shah,2023-01-10,36000
+EMP059,Lajita Bora,Cashier,Sales,ST034,Rajesh Kumar,2024-01-28,25000
+EMP060,Kashvi Acharya,Store Manager,Pharmacy Operations,ST031,Rahul Verma,2022-08-21,87000
+EMP061,Nimrat Contractor,Pharmacist,Pharmacy Operations,ST047,Karan Patel,2024-08-31,40000
+EMP062,Balendra Mitra,Inventory Executive,Inventory,ST050,Karan Patel,2021-02-06,34000
+EMP063,Chaaya Pandey,Inventory Executive,Inventory,ST036,Rahul Verma,2025-06-12,41000
+EMP064,Nimrat Yohannan,Pharmacist,Pharmacy Operations,ST013,Rajesh Kumar,2022-10-01,49000
+EMP065,Naksh Raja,Inventory Executive,Inventory,ST042,Rajesh Kumar,2023-12-01,33000
+EMP066,Kiaan Chand,Warehouse Executive,Warehouse,ST012,Amit Sharma,2022-08-22,35000
+EMP067,Lavanya Chokshi,Cashier,Sales,ST011,Amit Sharma,2022-06-28,24000
+EMP068,Eshana Prashad,Pharmacist,Pharmacy Operations,ST021,Rajesh Kumar,2023-02-09,50000
+EMP069,Wakeeta Manne,Cashier,Sales,ST036,Amit Sharma,2023-05-31,28000
+EMP070,Leena Dutt,Sales Executive,Sales,ST023,Karan Patel,2024-02-10,38000
+EMP071,Charvi Taneja,Inventory Executive,Inventory,ST005,Vikram Mehta,2022-01-15,33000
+EMP072,Eiravati Mohanty,Warehouse Executive,Warehouse,ST024,Amit Sharma,2023-06-26,33000
+EMP073,Luke Sood,Sales Executive,Sales,ST018,Karan Patel,2020-09-04,29000
+EMP074,Yatan Memon,Warehouse Executive,Warehouse,ST036,Nisha Shah,2020-10-09,28000
+EMP075,Manya Arya,Inventory Executive,Inventory,ST040,Rahul Verma,2023-06-01,31000
+EMP076,Yagnesh Som,Store Manager,Pharmacy Operations,ST035,Nisha Shah,2025-03-23,83000
+EMP077,Vrishti Loyal,Store Manager,Pharmacy Operations,ST023,Rajesh Kumar,2025-08-06,78000
+EMP078,Chaaya Tailor,Sales Executive,Sales,ST037,Nisha Shah,2024-03-07,35000
+EMP079,Zarna Dani,Cashier,Sales,ST011,Karan Patel,2020-08-18,29000
+EMP080,Charita Mandal,Cashier,Sales,ST009,Priya Patel,2023-09-26,27000
+EMP081,Chaman Wagle,Warehouse Executive,Warehouse,ST001,Karan Patel,2020-09-10,29000
+EMP082,Jalsa Deo,Store Manager,Pharmacy Operations,ST037,Rajesh Kumar,2020-10-01,75000
+EMP083,Tamanna Chokshi,Warehouse Executive,Warehouse,ST037,Karan Patel,2025-11-11,34000
+EMP084,Akshay Sanghvi,Sales Executive,Sales,ST015,Rohit Joshi,2025-03-16,32000
+EMP085,Vasatika Rajan,Sales Executive,Sales,ST046,Karan Patel,2023-05-22,34000
+EMP086,Chaman Shroff,Cashier,Sales,ST039,Rahul Verma,2025-07-07,26000
+EMP087,Chavvi Aggarwal,Sales Executive,Sales,ST017,Karan Patel,2024-09-13,28000
+EMP088,Bhavini Sodhi,Store Manager,Pharmacy Operations,ST020,Rohit Joshi,2025-12-31,74000
+EMP089,Noah Sridhar,Cashier,Sales,ST031,Amit Sharma,2024-09-14,23000
+EMP090,Ganga Yogi,Warehouse Executive,Warehouse,ST040,Rohit Joshi,2021-06-15,31000
+EMP091,Ekapad Karpe,Store Manager,Pharmacy Operations,ST003,Rajesh Kumar,2022-02-19,77000
+EMP092,Dev Bal,Pharmacist,Pharmacy Operations,ST031,Rahul Verma,2022-07-14,42000
+EMP093,Ekapad Ravel,Sales Executive,Sales,ST003,Vikram Mehta,2024-09-28,35000
+EMP094,Jatin Das,Store Manager,Pharmacy Operations,ST010,Rahul Verma,2021-11-06,74000
+EMP095,Krish Master,Sales Executive,Sales,ST039,Rohit Joshi,2024-10-08,36000
+EMP096,Mason Goswami,Warehouse Executive,Warehouse,ST039,Priya Patel,2024-03-13,28000
+EMP097,Neel Bhavsar,Cashier,Sales,ST020,Rahul Verma,2024-04-08,30000
+EMP098,Hritik Raghavan,Warehouse Executive,Warehouse,ST022,Rahul Verma,2025-01-03,36000
+EMP099,Dakshesh Dani,Pharmacist,Pharmacy Operations,ST030,Nisha Shah,2024-12-27,46000
+EMP100,Advaith Sankaran,Warehouse Executive,Warehouse,ST048,Rajesh Kumar,2021-01-30,28000
+EMP101,Vrishti Pandit,Pharmacist,Pharmacy Operations,ST017,Rohit Joshi,2026-03-02,38000
+EMP102,Daksh Devi,Warehouse Executive,Warehouse,ST035,Vikram Mehta,2024-09-19,28000
+EMP103,Yashasvi Mannan,Sales Executive,Sales,ST050,Karan Patel,2025-12-30,37000
+EMP104,Adya Bhatnagar,Inventory Executive,Inventory,ST045,Rohit Joshi,2023-11-05,36000
+EMP105,Bhanumati Varughese,Sales Executive,Sales,ST026,Vikram Mehta,2026-05-21,32000
+EMP106,Kamya Setty,Sales Executive,Sales,ST049,Priya Patel,2024-12-14,32000
+EMP107,Karan Bahl,Pharmacist,Pharmacy Operations,ST045,Karan Patel,2024-06-18,44000
+EMP108,Balendra Chand,Warehouse Executive,Warehouse,ST050,Rohit Joshi,2025-09-18,32000
+EMP109,William Ramakrishnan,Cashier,Sales,ST011,Rohit Joshi,2025-10-18,30000
+EMP110,Ekiya Chokshi,Sales Executive,Sales,ST022,Rajesh Kumar,2025-04-24,34000
+EMP111,Leena Bera,Inventory Executive,Inventory,ST035,Amit Sharma,2025-08-16,31000
+EMP112,Udant D’Alia,Warehouse Executive,Warehouse,ST015,Rahul Verma,2021-01-13,29000
+EMP113,Siddharth Dey,Pharmacist,Pharmacy Operations,ST043,Amit Sharma,2024-09-28,45000
+EMP114,Irya Keer,Warehouse Executive,Warehouse,ST028,Priya Patel,2022-04-10,34000
+EMP115,Libni Radhakrishnan,Warehouse Executive,Warehouse,ST032,Amit Sharma,2021-05-09,29000
+EMP116,Chaman Sant,Pharmacist,Pharmacy Operations,ST015,Priya Patel,2026-04-21,39000
+EMP117,Zansi Bansal,Store Manager,Pharmacy Operations,ST046,Rohit Joshi,2024-02-03,69000
+EMP118,Pranit Randhawa,Cashier,Sales,ST040,Rajesh Kumar,2020-11-29,28000
+EMP119,Bachittar Grewal,Cashier,Sales,ST005,Vikram Mehta,2021-09-30,22000
+EMP120,Vrishti Srivastava,Inventory Executive,Inventory,ST007,Karan Patel,2024-07-02,41000
