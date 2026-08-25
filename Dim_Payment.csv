@@ -1,0 +1,6 @@
+Payment_ID,Payment_Method,Payment_Type
+PAY001,Cash,Offline
+PAY002,UPI,Online
+PAY003,Credit Card,Online
+PAY004,Debit Card,Online
+PAY005,Net Banking,Online
