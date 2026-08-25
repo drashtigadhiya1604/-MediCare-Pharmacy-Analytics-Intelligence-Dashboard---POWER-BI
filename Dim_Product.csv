@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Brand,Generic_Name,Category_ID,Dosage,Form,Pack_Size,MRP,Purchase_Price,Selling_Price,Shelf_Life_Months,Prescription_Required
+1,Azithromycin 650mg Tablet,Mankind,Azithromycin,8,650mg,Tablet,Tube 30g,159.14,115.9,159.14,25,Yes
+2,Amlodipine 5ml Injection,Sun Pharma,Amlodipine,8,5ml,Injection,Strip of 15,736.78,537.96,736.78,58,Yes
+3,Omeprazole 250mg Syrup,Cipla,Omeprazole,1,250mg,Syrup,Tube 30g,46.34,32.2,46.34,55,Yes
+4,Cetirizine 500mg Cream,Sun Pharma,Cetirizine,9,500mg,Cream,Bottle of 100ml,921.17,720.12,921.17,34,Yes
+5,Metformin 250mg Syrup,Pfizer,Metformin,2,250mg,Syrup,Bottle of 100ml,511.09,396.03,511.09,52,No
+6,Amoxicillin 5ml Cream,Zydus,Amoxicillin,4,5ml,Cream,Strip of 15,619.11,478.61,619.11,30,No
+7,Losartan 250mg Cream,Abbott,Losartan,7,250mg,Cream,Tube 30g,586.67,424.23,586.67,54,Yes
+8,Pantoprazole 250mg Syrup,GSK,Pantoprazole,3,250mg,Syrup,Vial,537.97,351.04,537.97,37,No
+9,Amlodipine 250mg Injection,Sun Pharma,Amlodipine,10,250mg,Injection,Vial,384.06,289.77,384.06,49,No
+10,Azithromycin 500mg Cream,Dr. Reddy's,Azithromycin,9,500mg,Cream,Vial,1178.85,861.92,1178.85,26,No
+11,Losartan 650mg Cream,Zydus,Losartan,9,650mg,Cream,Vial,561.78,326.27,561.78,58,Yes
+12,Cetirizine 10mg Capsule,GSK,Cetirizine,1,10mg,Capsule,Tube 30g,937.33,526.45,937.33,35,Yes
+13,Losartan 650mg Injection,Abbott,Losartan,9,650mg,Injection,Vial,509.02,254.75,509.02,51,No
+14,Amlodipine 500mg Tablet,Mankind,Amlodipine,3,500mg,Tablet,Strip of 10,769.74,512.05,769.74,47,No
+15,Paracetamol 250mg Tablet,Cipla,Paracetamol,5,250mg,Tablet,Bottle of 100ml,554.54,402.73,554.54,29,Yes
+16,Omeprazole 650mg Syrup,Dr. Reddy's,Omeprazole,9,650mg,Syrup,Bottle of 100ml,102.03,55.9,102.03,54,No
+17,Atorvastatin 5ml Syrup,Pfizer,Atorvastatin,7,5ml,Syrup,Strip of 15,579.05,293.63,579.05,38,Yes
+18,Atorvastatin 20mg Syrup,Cipla,Atorvastatin,10,20mg,Syrup,Tube 30g,621.94,349.98,621.94,13,Yes
+19,Paracetamol 250mg Capsule,Abbott,Paracetamol,9,250mg,Capsule,Tube 30g,868.23,475.85,868.23,46,Yes
+20,Losartan 10mg Capsule,Pfizer,Losartan,10,10mg,Capsule,Strip of 15,785.24,485.65,785.24,54,No
+21,Paracetamol 500mg Capsule,Lupin,Paracetamol,2,500mg,Capsule,Strip of 15,1053.13,623.36,1053.13,31,Yes
+22,Cetirizine 500mg Syrup,Mankind,Cetirizine,1,500mg,Syrup,Vial,30.01,22.92,30.01,25,No
+23,Azithromycin 250mg Cream,Mankind,Azithromycin,4,250mg,Cream,Vial,466.0,281.5,466.0,55,No
+24,Omeprazole 250mg Injection,Torrent,Omeprazole,9,250mg,Injection,Tube 30g,1126.79,695.25,1126.79,13,No
+25,Omeprazole 250mg Syrup,Abbott,Omeprazole,10,250mg,Syrup,Bottle of 100ml,205.22,155.41,205.22,33,No
+26,Metformin 5ml Tablet,Lupin,Metformin,9,5ml,Tablet,Tube 30g,1119.98,675.52,1119.98,46,Yes
+27,Amoxicillin 500mg Tablet,Sun Pharma,Amoxicillin,4,500mg,Tablet,Strip of 15,220.24,170.31,220.24,60,No
+28,Omeprazole 650mg Syrup,GSK,Omeprazole,4,650mg,Syrup,Vial,419.84,224.27,419.84,57,No
+29,Azithromycin 250mg Cream,Mankind,Azithromycin,7,250mg,Cream,Bottle of 100ml,398.46,247.83,398.46,20,No
+30,Amoxicillin 5ml Cream,Mankind,Amoxicillin,10,5ml,Cream,Strip of 10,110.45,73.46,110.45,29,No
+31,Atorvastatin 250mg Cream,Mankind,Atorvastatin,1,250mg,Cream,Strip of 15,560.17,326.67,560.17,12,Yes
+32,Amoxicillin 250mg Tablet,Abbott,Amoxicillin,10,250mg,Tablet,Tube 30g,241.75,177.84,241.75,22,Yes
+33,Amlodipine 500mg Capsule,Dr. Reddy's,Amlodipine,7,500mg,Capsule,Vial,897.93,476.67,897.93,30,No
+34,Amlodipine 500mg Tablet,Zydus,Amlodipine,1,500mg,Tablet,Strip of 15,789.42,404.09,789.42,58,No
+35,Amlodipine 5ml Syrup,Abbott,Amlodipine,10,5ml,Syrup,Tube 30g,94.3,72.99,94.3,19,No
+36,Metformin 20mg Cream,Mankind,Metformin,3,20mg,Cream,Vial,573.33,347.87,573.33,25,No
+37,Metformin 250mg Syrup,Torrent,Metformin,8,250mg,Syrup,Strip of 10,987.57,520.28,987.57,53,No
+38,Metformin 250mg Syrup,Abbott,Metformin,10,250mg,Syrup,Strip of 15,406.14,241.66,406.14,27,No
+39,Amoxicillin 10mg Cream,GSK,Amoxicillin,4,10mg,Cream,Strip of 10,972.93,513.33,972.93,27,No
+40,Amoxicillin 250mg Cream,Lupin,Amoxicillin,1,250mg,Cream,Strip of 15,880.42,445.89,880.42,60,No
+41,Amlodipine 250mg Capsule,Pfizer,Amlodipine,2,250mg,Capsule,Vial,611.69,451.73,611.69,54,Yes
+42,Azithromycin 650mg Capsule,Dr. Reddy's,Azithromycin,10,650mg,Capsule,Strip of 15,380.63,271.31,380.63,20,Yes
+43,Azithromycin 650mg Tablet,GSK,Azithromycin,9,650mg,Tablet,Bottle of 100ml,988.82,679.38,988.82,23,No
+44,Cetirizine 250mg Capsule,GSK,Cetirizine,5,250mg,Capsule,Strip of 10,863.49,604.73,863.49,55,No
+45,Cetirizine 10mg Syrup,GSK,Cetirizine,1,10mg,Syrup,Tube 30g,538.49,356.17,538.49,33,Yes
+46,Atorvastatin 20mg Tablet,Pfizer,Atorvastatin,1,20mg,Tablet,Strip of 10,1120.51,888.45,1120.51,56,No
+47,Omeprazole 500mg Cream,Dr. Reddy's,Omeprazole,5,500mg,Cream,Tube 30g,183.43,145.82,183.43,48,No
+48,Azithromycin 500mg Tablet,Mankind,Azithromycin,6,500mg,Tablet,Vial,593.48,328.36,593.48,53,No
+49,Metformin 5ml Syrup,Torrent,Metformin,7,5ml,Syrup,Strip of 15,830.6,653.65,830.6,47,No
+50,Metformin 10mg Tablet,Sun Pharma,Metformin,9,10mg,Tablet,Bottle of 100ml,781.44,477.15,781.44,31,No
+51,Atorvastatin 500mg Syrup,GSK,Atorvastatin,10,500mg,Syrup,Strip of 10,847.51,610.99,847.51,19,No
+52,Azithromycin 5ml Syrup,Dr. Reddy's,Azithromycin,1,5ml,Syrup,Tube 30g,276.79,185.69,276.79,55,No
+53,Pantoprazole 500mg Cream,Abbott,Pantoprazole,9,500mg,Cream,Strip of 10,662.18,528.61,662.18,28,Yes
+54,Atorvastatin 10mg Capsule,Cipla,Atorvastatin,2,10mg,Capsule,Tube 30g,1013.48,707.32,1013.48,27,No
+55,Cetirizine 650mg Capsule,Abbott,Cetirizine,8,650mg,Capsule,Bottle of 100ml,536.99,368.76,536.99,19,No
+56,Omeprazole 250mg Injection,GSK,Omeprazole,7,250mg,Injection,Vial,799.4,466.29,799.4,12,Yes
+57,Losartan 250mg Cream,Pfizer,Losartan,4,250mg,Cream,Strip of 15,56.35,44.63,56.35,25,Yes
+58,Atorvastatin 500mg Cream,Dr. Reddy's,Atorvastatin,5,500mg,Cream,Tube 30g,342.41,231.37,342.41,22,No
+59,Amlodipine 500mg Tablet,Abbott,Amlodipine,5,500mg,Tablet,Strip of 10,693.24,426.33,693.24,13,Yes
+60,Omeprazole 650mg Cream,Sun Pharma,Omeprazole,3,650mg,Cream,Strip of 10,1158.64,843.86,1158.64,44,No
+61,Omeprazole 10mg Injection,Lupin,Omeprazole,6,10mg,Injection,Strip of 10,819.17,596.01,819.17,19,No
+62,Amlodipine 10mg Syrup,Zydus,Amlodipine,10,10mg,Syrup,Tube 30g,491.3,361.07,491.3,19,No
+63,Cetirizine 250mg Cream,Torrent,Cetirizine,9,250mg,Cream,Bottle of 100ml,1193.9,824.58,1193.9,41,No
+64,Atorvastatin 10mg Injection,Dr. Reddy's,Atorvastatin,9,10mg,Injection,Strip of 10,809.23,452.53,809.23,55,No
+65,Omeprazole 650mg Injection,Abbott,Omeprazole,2,650mg,Injection,Tube 30g,1036.27,699.82,1036.27,59,Yes
+66,Atorvastatin 20mg Injection,Sun Pharma,Atorvastatin,7,20mg,Injection,Strip of 15,762.53,526.24,762.53,23,Yes
+67,Omeprazole 650mg Syrup,Sun Pharma,Omeprazole,9,650mg,Syrup,Strip of 15,961.99,599.65,961.99,21,No
+68,Atorvastatin 5ml Capsule,Pfizer,Atorvastatin,2,5ml,Capsule,Vial,622.19,361.65,622.19,39,Yes
+69,Pantoprazole 250mg Injection,Cipla,Pantoprazole,3,250mg,Injection,Strip of 10,213.68,152.37,213.68,37,No
+70,Omeprazole 10mg Capsule,Lupin,Omeprazole,5,10mg,Capsule,Strip of 10,265.1,203.02,265.1,16,No
+71,Amlodipine 20mg Cream,GSK,Amlodipine,9,20mg,Cream,Strip of 15,78.7,46.36,78.7,34,Yes
+72,Cetirizine 500mg Injection,GSK,Cetirizine,10,500mg,Injection,Strip of 15,590.68,341.33,590.68,57,Yes
+73,Atorvastatin 20mg Capsule,Mankind,Atorvastatin,10,20mg,Capsule,Tube 30g,56.03,43.13,56.03,32,No
+74,Metformin 250mg Capsule,Lupin,Metformin,10,250mg,Capsule,Tube 30g,758.55,416.97,758.55,49,Yes
+75,Omeprazole 10mg Injection,Lupin,Omeprazole,8,10mg,Injection,Strip of 15,211.79,155.36,211.79,31,No
+76,Metformin 20mg Capsule,Cipla,Metformin,4,20mg,Capsule,Tube 30g,824.05,428.89,824.05,32,No
+77,Amoxicillin 250mg Tablet,Dr. Reddy's,Amoxicillin,4,250mg,Tablet,Strip of 10,975.18,494.4,975.18,43,No
+78,Pantoprazole 10mg Tablet,Lupin,Pantoprazole,7,10mg,Tablet,Bottle of 100ml,837.31,442.58,837.31,43,No
+79,Cetirizine 500mg Capsule,Dr. Reddy's,Cetirizine,10,500mg,Capsule,Tube 30g,987.78,630.97,987.78,25,No
+80,Atorvastatin 10mg Injection,Zydus,Atorvastatin,2,10mg,Injection,Strip of 10,150.92,85.14,150.92,12,Yes
+81,Amlodipine 10mg Injection,Zydus,Amlodipine,3,10mg,Injection,Bottle of 100ml,358.91,200.55,358.91,13,Yes
+82,Cetirizine 250mg Cream,Dr. Reddy's,Cetirizine,2,250mg,Cream,Tube 30g,686.4,395.54,686.4,53,No
+83,Paracetamol 250mg Cream,Sun Pharma,Paracetamol,5,250mg,Cream,Strip of 10,639.39,344.43,639.39,39,Yes
+84,Metformin 20mg Injection,Sun Pharma,Metformin,4,20mg,Injection,Tube 30g,173.77,101.44,173.77,36,No
+85,Atorvastatin 500mg Capsule,Lupin,Atorvastatin,10,500mg,Capsule,Bottle of 100ml,91.02,71.05,91.02,34,No
+86,Omeprazole 250mg Cream,GSK,Omeprazole,9,250mg,Cream,Bottle of 100ml,1087.96,722.49,1087.96,57,No
+87,Amoxicillin 20mg Cream,Lupin,Amoxicillin,3,20mg,Cream,Strip of 10,1167.39,609.01,1167.39,21,Yes
+88,Metformin 250mg Tablet,Abbott,Metformin,9,250mg,Tablet,Tube 30g,771.8,597.15,771.8,44,No
+89,Amoxicillin 500mg Tablet,Zydus,Amoxicillin,3,500mg,Tablet,Tube 30g,647.13,409.64,647.13,60,No
+90,Paracetamol 250mg Syrup,GSK,Paracetamol,5,250mg,Syrup,Strip of 10,315.01,188.26,315.01,36,Yes
+91,Atorvastatin 650mg Capsule,Zydus,Atorvastatin,5,650mg,Capsule,Strip of 10,957.6,710.61,957.6,39,Yes
+92,Losartan 650mg Capsule,GSK,Losartan,7,650mg,Capsule,Vial,1109.18,724.07,1109.18,42,Yes
+93,Azithromycin 10mg Cream,Pfizer,Azithromycin,9,10mg,Cream,Vial,868.87,652.03,868.87,13,No
+94,Azithromycin 5ml Syrup,Torrent,Azithromycin,6,5ml,Syrup,Bottle of 100ml,634.87,335.98,634.87,48,Yes
+95,Paracetamol 650mg Cream,Lupin,Paracetamol,5,650mg,Cream,Strip of 15,512.75,305.41,512.75,59,Yes
+96,Losartan 650mg Capsule,Cipla,Losartan,6,650mg,Capsule,Vial,1099.01,656.85,1099.01,16,No
+97,Atorvastatin 650mg Injection,Pfizer,Atorvastatin,2,650mg,Injection,Vial,1114.59,881.56,1114.59,15,Yes
+98,Paracetamol 10mg Injection,GSK,Paracetamol,4,10mg,Injection,Vial,1026.66,590.92,1026.66,59,No
+99,Pantoprazole 650mg Injection,Zydus,Pantoprazole,9,650mg,Injection,Vial,568.19,451.1,568.19,22,Yes
+100,Azithromycin 10mg Capsule,Lupin,Azithromycin,7,10mg,Capsule,Vial,177.42,94.71,177.42,15,Yes
+101,Losartan 500mg Tablet,Lupin,Losartan,9,500mg,Tablet,Strip of 10,328.8,226.75,328.8,16,Yes
+102,Azithromycin 250mg Injection,GSK,Azithromycin,8,250mg,Injection,Strip of 15,716.62,551.8,716.62,26,Yes
+103,Omeprazole 5ml Capsule,Pfizer,Omeprazole,4,5ml,Capsule,Tube 30g,553.59,337.77,553.59,58,Yes
+104,Atorvastatin 250mg Capsule,Abbott,Atorvastatin,9,250mg,Capsule,Tube 30g,901.2,658.87,901.2,16,No
+105,Omeprazole 10mg Cream,GSK,Omeprazole,8,10mg,Cream,Strip of 10,522.2,316.22,522.2,24,No
+106,Paracetamol 650mg Tablet,GSK,Paracetamol,6,650mg,Tablet,Vial,624.74,498.65,624.74,53,No
+107,Losartan 10mg Cream,Abbott,Losartan,5,10mg,Cream,Tube 30g,501.79,345.73,501.79,31,Yes
+108,Losartan 500mg Cream,Pfizer,Losartan,3,500mg,Cream,Strip of 15,668.99,530.49,668.99,52,Yes
+109,Cetirizine 650mg Tablet,Mankind,Cetirizine,1,650mg,Tablet,Strip of 10,516.62,301.95,516.62,17,Yes
+110,Cetirizine 650mg Injection,Lupin,Cetirizine,8,650mg,Injection,Strip of 15,959.17,586.81,959.17,36,No
+111,Amoxicillin 500mg Syrup,Pfizer,Amoxicillin,3,500mg,Syrup,Strip of 15,509.93,257.74,509.93,35,Yes
+112,Omeprazole 650mg Injection,Lupin,Omeprazole,7,650mg,Injection,Strip of 15,1128.08,661.26,1128.08,39,No
+113,Amlodipine 5ml Injection,Torrent,Amlodipine,3,5ml,Injection,Bottle of 100ml,865.09,456.26,865.09,21,Yes
+114,Paracetamol 500mg Syrup,Cipla,Paracetamol,7,500mg,Syrup,Bottle of 100ml,586.15,460.51,586.15,12,Yes
+115,Cetirizine 10mg Tablet,Mankind,Cetirizine,1,10mg,Tablet,Strip of 10,277.57,173.92,277.57,59,No
+116,Amoxicillin 500mg Syrup,Lupin,Amoxicillin,1,500mg,Syrup,Bottle of 100ml,586.06,432.5,586.06,55,Yes
+117,Cetirizine 650mg Injection,Cipla,Cetirizine,7,650mg,Injection,Strip of 10,824.71,535.56,824.71,50,No
+118,Amoxicillin 10mg Injection,Dr. Reddy's,Amoxicillin,9,10mg,Injection,Strip of 15,1088.36,609.87,1088.36,38,No
+119,Amlodipine 10mg Capsule,GSK,Amlodipine,1,10mg,Capsule,Strip of 15,417.77,269.79,417.77,57,No
+120,Paracetamol 650mg Injection,GSK,Paracetamol,4,650mg,Injection,Vial,916.63,689.96,916.63,29,No
+121,Metformin 500mg Capsule,Abbott,Metformin,10,500mg,Capsule,Strip of 10,322.45,200.67,322.45,46,Yes
+122,Cetirizine 5ml Syrup,Lupin,Cetirizine,4,5ml,Syrup,Tube 30g,840.6,487.65,840.6,35,No
+123,Metformin 10mg Capsule,Zydus,Metformin,10,10mg,Capsule,Tube 30g,915.52,660.79,915.52,46,Yes
+124,Paracetamol 10mg Syrup,GSK,Paracetamol,4,10mg,Syrup,Strip of 15,834.33,578.62,834.33,51,No
+125,Amlodipine 500mg Tablet,Zydus,Amlodipine,4,500mg,Tablet,Strip of 10,1066.96,757.01,1066.96,52,Yes
+126,Omeprazole 500mg Tablet,Dr. Reddy's,Omeprazole,5,500mg,Tablet,Tube 30g,684.65,445.64,684.65,32,Yes
+127,Paracetamol 500mg Cream,Lupin,Paracetamol,6,500mg,Cream,Strip of 15,119.79,67.96,119.79,50,No
+128,Paracetamol 650mg Syrup,Cipla,Paracetamol,3,650mg,Syrup,Vial,184.54,106.16,184.54,14,No
+129,Amoxicillin 650mg Tablet,Cipla,Amoxicillin,1,650mg,Tablet,Strip of 15,394.08,228.88,394.08,13,Yes
+130,Azithromycin 20mg Syrup,Abbott,Azithromycin,6,20mg,Syrup,Strip of 15,773.29,442.8,773.29,12,No
+131,Amoxicillin 10mg Capsule,Zydus,Amoxicillin,2,10mg,Capsule,Vial,1114.14,647.68,1114.14,51,No
+132,Omeprazole 5ml Cream,Abbott,Omeprazole,5,5ml,Cream,Vial,375.29,212.35,375.29,20,Yes
+133,Omeprazole 500mg Tablet,GSK,Omeprazole,5,500mg,Tablet,Vial,303.89,233.74,303.89,13,No
+134,Losartan 650mg Cream,Lupin,Losartan,2,650mg,Cream,Strip of 15,578.42,359.19,578.42,16,No
+135,Losartan 20mg Cream,GSK,Losartan,8,20mg,Cream,Bottle of 100ml,705.37,483.68,705.37,21,Yes
+136,Omeprazole 5ml Capsule,Dr. Reddy's,Omeprazole,6,5ml,Capsule,Strip of 15,1013.08,764.34,1013.08,30,Yes
+137,Azithromycin 5ml Injection,Abbott,Azithromycin,5,5ml,Injection,Strip of 15,159.07,108.22,159.07,54,Yes
+138,Losartan 5ml Capsule,Sun Pharma,Losartan,2,5ml,Capsule,Tube 30g,901.45,705.55,901.45,13,No
+139,Omeprazole 650mg Syrup,Abbott,Omeprazole,1,650mg,Syrup,Strip of 10,501.95,342.2,501.95,42,Yes
+140,Paracetamol 10mg Tablet,Sun Pharma,Paracetamol,6,10mg,Tablet,Vial,184.7,120.5,184.7,29,No
+141,Amlodipine 500mg Cream,Torrent,Amlodipine,3,500mg,Cream,Strip of 10,144.54,113.55,144.54,14,No
+142,Cetirizine 20mg Syrup,Zydus,Cetirizine,1,20mg,Syrup,Vial,758.41,583.6,758.41,39,No
+143,Cetirizine 650mg Syrup,Zydus,Cetirizine,10,650mg,Syrup,Vial,540.4,383.56,540.4,21,Yes
+144,Pantoprazole 500mg Cream,Cipla,Pantoprazole,6,500mg,Cream,Strip of 10,660.78,454.47,660.78,49,Yes
+145,Amlodipine 20mg Injection,Torrent,Amlodipine,4,20mg,Injection,Strip of 10,1003.94,554.59,1003.94,27,No
+146,Pantoprazole 20mg Injection,Torrent,Pantoprazole,4,20mg,Injection,Tube 30g,575.98,373.11,575.98,40,No
+147,Losartan 5ml Cream,Cipla,Losartan,3,5ml,Cream,Strip of 10,1113.59,837.34,1113.59,36,No
+148,Amoxicillin 500mg Tablet,Sun Pharma,Amoxicillin,9,500mg,Tablet,Strip of 15,561.38,344.19,561.38,21,Yes
+149,Losartan 250mg Syrup,Cipla,Losartan,4,250mg,Syrup,Vial,568.03,422.19,568.03,56,No
+150,Paracetamol 5ml Capsule,GSK,Paracetamol,6,5ml,Capsule,Bottle of 100ml,1090.55,761.95,1090.55,16,Yes
+151,Azithromycin 250mg Cream,Abbott,Azithromycin,1,250mg,Cream,Vial,625.48,392.94,625.48,58,Yes
+152,Losartan 250mg Cream,Mankind,Losartan,2,250mg,Cream,Vial,312.54,229.36,312.54,53,Yes
+153,Cetirizine 250mg Cream,Cipla,Cetirizine,9,250mg,Cream,Bottle of 100ml,776.89,500.07,776.89,12,Yes
+154,Atorvastatin 20mg Syrup,Pfizer,Atorvastatin,9,20mg,Syrup,Strip of 15,510.36,346.27,510.36,46,No
+155,Losartan 500mg Cream,Abbott,Losartan,4,500mg,Cream,Tube 30g,844.68,599.35,844.68,29,No
+156,Azithromycin 650mg Cream,Lupin,Azithromycin,10,650mg,Cream,Strip of 10,1016.92,746.59,1016.92,58,No
+157,Pantoprazole 650mg Syrup,Dr. Reddy's,Pantoprazole,10,650mg,Syrup,Tube 30g,317.68,195.46,317.68,12,Yes
+158,Azithromycin 500mg Capsule,Lupin,Azithromycin,10,500mg,Capsule,Bottle of 100ml,103.14,69.5,103.14,46,No
+159,Metformin 10mg Capsule,Mankind,Metformin,2,10mg,Capsule,Strip of 10,563.39,401.96,563.39,21,Yes
+160,Paracetamol 5ml Injection,Abbott,Paracetamol,3,5ml,Injection,Vial,825.25,558.94,825.25,46,Yes
+161,Metformin 650mg Capsule,Abbott,Metformin,7,650mg,Capsule,Strip of 15,258.85,185.25,258.85,59,Yes
+162,Metformin 650mg Capsule,Lupin,Metformin,9,650mg,Capsule,Strip of 15,600.7,352.93,600.7,25,No
+163,Paracetamol 10mg Cream,Lupin,Paracetamol,8,10mg,Cream,Strip of 15,141.59,86.62,141.59,51,Yes
+164,Paracetamol 500mg Capsule,Zydus,Paracetamol,2,500mg,Capsule,Strip of 10,1148.83,791.27,1148.83,39,Yes
+165,Metformin 5ml Cream,GSK,Metformin,4,5ml,Cream,Tube 30g,163.45,126.15,163.45,54,Yes
+166,Omeprazole 20mg Tablet,Lupin,Omeprazole,10,20mg,Tablet,Tube 30g,162.65,91.16,162.65,54,No
+167,Losartan 650mg Capsule,Mankind,Losartan,9,650mg,Capsule,Vial,64.5,35.5,64.5,26,No
+168,Atorvastatin 650mg Injection,Abbott,Atorvastatin,3,650mg,Injection,Bottle of 100ml,602.89,422.5,602.89,47,Yes
+169,Amlodipine 500mg Injection,Sun Pharma,Amlodipine,6,500mg,Injection,Bottle of 100ml,484.85,348.63,484.85,18,Yes
+170,Paracetamol 500mg Injection,Abbott,Paracetamol,4,500mg,Injection,Vial,1149.11,779.78,1149.11,36,No
+171,Metformin 20mg Syrup,Torrent,Metformin,2,20mg,Syrup,Strip of 15,1055.44,838.49,1055.44,15,No
+172,Paracetamol 500mg Capsule,Mankind,Paracetamol,8,500mg,Capsule,Strip of 10,1027.48,803.04,1027.48,49,Yes
+173,Omeprazole 5ml Tablet,Abbott,Omeprazole,5,5ml,Tablet,Tube 30g,960.07,722.57,960.07,29,No
+174,Amlodipine 5ml Cream,Sun Pharma,Amlodipine,6,5ml,Cream,Bottle of 100ml,40.56,23.99,40.56,50,No
+175,Amoxicillin 5ml Syrup,Mankind,Amoxicillin,1,5ml,Syrup,Vial,481.4,315.77,481.4,49,Yes
+176,Paracetamol 250mg Cream,Mankind,Paracetamol,6,250mg,Cream,Vial,139.09,83.4,139.09,14,No
+177,Omeprazole 20mg Injection,Cipla,Omeprazole,6,20mg,Injection,Vial,118.84,78.66,118.84,46,Yes
+178,Azithromycin 500mg Syrup,Zydus,Azithromycin,10,500mg,Syrup,Strip of 10,192.45,129.72,192.45,37,No
+179,Losartan 650mg Syrup,Abbott,Losartan,1,650mg,Syrup,Strip of 10,1025.21,699.86,1025.21,52,Yes
+180,Atorvastatin 650mg Cream,Abbott,Atorvastatin,2,650mg,Cream,Bottle of 100ml,697.05,477.89,697.05,29,No
+181,Amoxicillin 10mg Syrup,Dr. Reddy's,Amoxicillin,4,10mg,Syrup,Strip of 10,876.85,507.56,876.85,29,No
+182,Paracetamol 500mg Syrup,GSK,Paracetamol,6,500mg,Syrup,Strip of 15,989.98,517.3,989.98,30,Yes
+183,Paracetamol 20mg Syrup,Pfizer,Paracetamol,7,20mg,Syrup,Bottle of 100ml,64.0,50.99,64.0,47,Yes
+184,Omeprazole 500mg Injection,GSK,Omeprazole,2,500mg,Injection,Vial,1168.2,653.29,1168.2,20,Yes
+185,Atorvastatin 250mg Capsule,Pfizer,Atorvastatin,10,250mg,Capsule,Strip of 15,446.34,284.25,446.34,26,Yes
+186,Paracetamol 500mg Tablet,Pfizer,Paracetamol,1,500mg,Tablet,Bottle of 100ml,318.91,212.26,318.91,60,Yes
+187,Losartan 10mg Tablet,Dr. Reddy's,Losartan,4,10mg,Tablet,Tube 30g,256.3,162.21,256.3,44,No
+188,Pantoprazole 500mg Tablet,Abbott,Pantoprazole,10,500mg,Tablet,Strip of 15,721.3,401.23,721.3,49,No
+189,Omeprazole 250mg Syrup,Pfizer,Omeprazole,10,250mg,Syrup,Vial,595.06,463.56,595.06,39,No
+190,Pantoprazole 500mg Injection,Cipla,Pantoprazole,10,500mg,Injection,Vial,847.92,628.54,847.92,54,No
+191,Omeprazole 10mg Injection,Mankind,Omeprazole,9,10mg,Injection,Strip of 15,575.99,431.78,575.99,48,No
+192,Omeprazole 650mg Syrup,GSK,Omeprazole,1,650mg,Syrup,Tube 30g,386.09,263.07,386.09,41,No
+193,Metformin 500mg Injection,GSK,Metformin,3,500mg,Injection,Tube 30g,845.42,657.44,845.42,39,Yes
+194,Amoxicillin 650mg Tablet,Zydus,Amoxicillin,5,650mg,Tablet,Tube 30g,906.67,655.17,906.67,12,No
+195,Pantoprazole 250mg Cream,Lupin,Pantoprazole,2,250mg,Cream,Strip of 10,266.1,139.58,266.1,20,No
+196,Cetirizine 500mg Syrup,Mankind,Cetirizine,3,500mg,Syrup,Vial,52.1,36.12,52.1,59,No
+197,Atorvastatin 5ml Injection,Lupin,Atorvastatin,2,5ml,Injection,Bottle of 100ml,1114.02,882.21,1114.02,38,Yes
+198,Omeprazole 500mg Cream,Sun Pharma,Omeprazole,7,500mg,Cream,Tube 30g,763.1,437.29,763.1,25,Yes
+199,Atorvastatin 20mg Tablet,Zydus,Atorvastatin,8,20mg,Tablet,Bottle of 100ml,851.28,504.11,851.28,55,Yes
+200,Paracetamol 10mg Injection,Zydus,Paracetamol,8,10mg,Injection,Strip of 15,423.43,313.49,423.43,50,Yes
+201,Omeprazole 20mg Cream,Lupin,Omeprazole,5,20mg,Cream,Strip of 10,345.82,174.08,345.82,52,No
+202,Amoxicillin 10mg Capsule,GSK,Amoxicillin,5,10mg,Capsule,Tube 30g,902.53,654.17,902.53,35,Yes
+203,Paracetamol 10mg Cream,Cipla,Paracetamol,5,10mg,Cream,Strip of 10,626.73,344.02,626.73,16,Yes
+204,Paracetamol 20mg Injection,Sun Pharma,Paracetamol,1,20mg,Injection,Strip of 10,864.66,437.79,864.66,14,No
+205,Pantoprazole 250mg Cream,Sun Pharma,Pantoprazole,5,250mg,Cream,Strip of 15,679.65,435.44,679.65,49,No
+206,Metformin 5ml Capsule,Dr. Reddy's,Metformin,9,5ml,Capsule,Tube 30g,1066.66,609.68,1066.66,14,No
+207,Pantoprazole 250mg Tablet,Abbott,Pantoprazole,2,250mg,Tablet,Bottle of 100ml,683.8,445.62,683.8,25,Yes
+208,Azithromycin 250mg Tablet,Lupin,Azithromycin,3,250mg,Tablet,Strip of 10,957.94,731.31,957.94,40,Yes
+209,Metformin 650mg Syrup,Sun Pharma,Metformin,4,650mg,Syrup,Bottle of 100ml,88.81,46.78,88.81,54,Yes
+210,Amoxicillin 250mg Capsule,Sun Pharma,Amoxicillin,4,250mg,Capsule,Strip of 15,900.47,481.55,900.47,57,No
+211,Losartan 20mg Capsule,Abbott,Losartan,4,20mg,Capsule,Strip of 15,58.07,33.42,58.07,34,No
+212,Amlodipine 20mg Injection,Mankind,Amlodipine,4,20mg,Injection,Tube 30g,476.11,298.92,476.11,33,Yes
+213,Omeprazole 250mg Capsule,Cipla,Omeprazole,5,250mg,Capsule,Vial,932.04,588.1,932.04,31,No
+214,Pantoprazole 650mg Injection,Abbott,Pantoprazole,8,650mg,Injection,Vial,435.22,269.32,435.22,13,No
+215,Azithromycin 650mg Capsule,Lupin,Azithromycin,3,650mg,Capsule,Bottle of 100ml,688.84,524.54,688.84,41,Yes
+216,Azithromycin 10mg Tablet,Dr. Reddy's,Azithromycin,6,10mg,Tablet,Bottle of 100ml,319.58,193.92,319.58,29,No
+217,Atorvastatin 500mg Injection,Cipla,Atorvastatin,2,500mg,Injection,Bottle of 100ml,668.96,512.36,668.96,55,No
+218,Amoxicillin 10mg Injection,Dr. Reddy's,Amoxicillin,4,10mg,Injection,Strip of 15,61.27,31.5,61.27,59,No
+219,Losartan 20mg Cream,Zydus,Losartan,2,20mg,Cream,Bottle of 100ml,976.1,597.72,976.1,36,Yes
+220,Atorvastatin 250mg Capsule,Mankind,Atorvastatin,6,250mg,Capsule,Vial,311.42,234.93,311.42,37,Yes
+221,Pantoprazole 650mg Capsule,Sun Pharma,Pantoprazole,2,650mg,Capsule,Bottle of 100ml,843.32,423.39,843.32,26,No
+222,Losartan 500mg Capsule,Lupin,Losartan,9,500mg,Capsule,Vial,289.13,171.58,289.13,46,No
+223,Amlodipine 5ml Cream,Mankind,Amlodipine,4,5ml,Cream,Tube 30g,235.8,179.03,235.8,16,No
+224,Metformin 500mg Capsule,Torrent,Metformin,8,500mg,Capsule,Strip of 15,931.56,471.7,931.56,23,Yes
+225,Pantoprazole 500mg Cream,Cipla,Pantoprazole,2,500mg,Cream,Tube 30g,820.01,623.37,820.01,53,Yes
+226,Omeprazole 10mg Capsule,Zydus,Omeprazole,1,10mg,Capsule,Bottle of 100ml,835.86,627.46,835.86,32,No
+227,Losartan 650mg Tablet,Sun Pharma,Losartan,8,650mg,Tablet,Strip of 10,609.95,368.93,609.95,44,No
+228,Omeprazole 650mg Cream,Lupin,Omeprazole,8,650mg,Cream,Strip of 15,1070.67,719.35,1070.67,38,Yes
+229,Atorvastatin 250mg Syrup,Cipla,Atorvastatin,4,250mg,Syrup,Strip of 15,1187.91,917.71,1187.91,28,No
+230,Atorvastatin 250mg Injection,Pfizer,Atorvastatin,1,250mg,Injection,Strip of 10,367.53,253.64,367.53,39,No
+231,Omeprazole 650mg Syrup,Torrent,Omeprazole,8,650mg,Syrup,Vial,926.41,663.03,926.41,30,No
+232,Azithromycin 650mg Capsule,Zydus,Azithromycin,10,650mg,Capsule,Bottle of 100ml,131.63,79.91,131.63,37,No
+233,Azithromycin 250mg Capsule,Pfizer,Azithromycin,2,250mg,Capsule,Strip of 10,881.91,506.47,881.91,45,No
+234,Omeprazole 10mg Syrup,Pfizer,Omeprazole,8,10mg,Syrup,Tube 30g,958.21,640.97,958.21,12,No
+235,Losartan 500mg Injection,GSK,Losartan,6,500mg,Injection,Strip of 15,720.19,440.71,720.19,40,Yes
+236,Losartan 5ml Tablet,Lupin,Losartan,3,5ml,Tablet,Bottle of 100ml,914.44,555.18,914.44,40,Yes
+237,Pantoprazole 500mg Syrup,Mankind,Pantoprazole,10,500mg,Syrup,Bottle of 100ml,691.14,444.74,691.14,51,Yes
+238,Amlodipine 500mg Cream,Dr. Reddy's,Amlodipine,2,500mg,Cream,Strip of 15,1185.34,945.99,1185.34,28,Yes
+239,Azithromycin 500mg Capsule,Zydus,Azithromycin,9,500mg,Capsule,Strip of 15,970.43,701.1,970.43,26,No
+240,Amlodipine 10mg Cream,Pfizer,Amlodipine,9,10mg,Cream,Strip of 15,387.09,253.92,387.09,49,Yes
+241,Atorvastatin 650mg Tablet,Dr. Reddy's,Atorvastatin,9,650mg,Tablet,Bottle of 100ml,160.49,98.54,160.49,51,No
+242,Amlodipine 650mg Injection,GSK,Amlodipine,2,650mg,Injection,Strip of 10,1005.66,519.13,1005.66,46,No
+243,Azithromycin 500mg Injection,Pfizer,Azithromycin,10,500mg,Injection,Strip of 10,580.54,381.18,580.54,49,Yes
+244,Omeprazole 5ml Injection,Pfizer,Omeprazole,3,5ml,Injection,Vial,363.06,219.52,363.06,29,Yes
+245,Paracetamol 20mg Tablet,GSK,Paracetamol,4,20mg,Tablet,Tube 30g,96.61,75.2,96.61,32,No
+246,Pantoprazole 250mg Injection,Cipla,Pantoprazole,7,250mg,Injection,Tube 30g,901.65,526.08,901.65,33,Yes
+247,Azithromycin 5ml Cream,Abbott,Azithromycin,8,5ml,Cream,Vial,1062.46,726.8,1062.46,21,No
+248,Azithromycin 10mg Capsule,Zydus,Azithromycin,4,10mg,Capsule,Tube 30g,248.33,182.8,248.33,53,Yes
+249,Amoxicillin 250mg Injection,Cipla,Amoxicillin,9,250mg,Injection,Strip of 15,555.25,442.43,555.25,29,No
+250,Paracetamol 20mg Injection,Abbott,Paracetamol,5,20mg,Injection,Vial,545.54,394.01,545.54,36,No
+251,Atorvastatin 5ml Tablet,Dr. Reddy's,Atorvastatin,2,5ml,Tablet,Vial,232.07,126.71,232.07,19,No
+252,Pantoprazole 20mg Cream,Pfizer,Pantoprazole,9,20mg,Cream,Vial,422.42,284.89,422.42,41,No
+253,Amlodipine 500mg Cream,Abbott,Amlodipine,10,500mg,Cream,Bottle of 100ml,215.98,142.76,215.98,15,No
+254,Omeprazole 5ml Syrup,Sun Pharma,Omeprazole,6,5ml,Syrup,Vial,1132.31,683.11,1132.31,50,No
+255,Metformin 650mg Capsule,Lupin,Metformin,3,650mg,Capsule,Strip of 10,488.98,346.97,488.98,36,No
+256,Omeprazole 500mg Capsule,Mankind,Omeprazole,7,500mg,Capsule,Bottle of 100ml,97.74,66.8,97.74,57,No
+257,Amoxicillin 650mg Tablet,Abbott,Amoxicillin,3,650mg,Tablet,Strip of 10,130.03,80.92,130.03,46,Yes
+258,Pantoprazole 5ml Injection,Dr. Reddy's,Pantoprazole,9,5ml,Injection,Strip of 15,404.14,307.71,404.14,25,Yes
+259,Azithromycin 500mg Cream,Dr. Reddy's,Azithromycin,8,500mg,Cream,Vial,1157.7,629.8,1157.7,45,Yes
+260,Cetirizine 10mg Syrup,Dr. Reddy's,Cetirizine,6,10mg,Syrup,Vial,956.62,679.85,956.62,20,Yes
+261,Pantoprazole 500mg Capsule,Dr. Reddy's,Pantoprazole,1,500mg,Capsule,Strip of 10,837.78,567.79,837.78,20,No
+262,Omeprazole 650mg Capsule,Dr. Reddy's,Omeprazole,6,650mg,Capsule,Strip of 10,856.41,500.16,856.41,36,No
+263,Paracetamol 500mg Injection,GSK,Paracetamol,1,500mg,Injection,Strip of 15,868.52,487.97,868.52,14,No
+264,Losartan 250mg Tablet,Torrent,Losartan,2,250mg,Tablet,Tube 30g,979.83,716.69,979.83,33,Yes
+265,Amlodipine 20mg Cream,Mankind,Amlodipine,3,20mg,Cream,Tube 30g,789.32,552.62,789.32,35,No
+266,Cetirizine 650mg Injection,Abbott,Cetirizine,4,650mg,Injection,Strip of 10,1159.63,900.87,1159.63,21,Yes
+267,Metformin 20mg Capsule,Sun Pharma,Metformin,8,20mg,Capsule,Vial,484.41,356.21,484.41,18,Yes
+268,Azithromycin 250mg Tablet,GSK,Azithromycin,7,250mg,Tablet,Bottle of 100ml,527.62,388.18,527.62,27,No
+269,Cetirizine 20mg Cream,Zydus,Cetirizine,9,20mg,Cream,Strip of 15,75.82,48.25,75.82,49,Yes
+270,Pantoprazole 20mg Capsule,Cipla,Pantoprazole,3,20mg,Capsule,Strip of 10,774.66,488.83,774.66,35,Yes
+271,Azithromycin 5ml Tablet,Lupin,Azithromycin,10,5ml,Tablet,Tube 30g,772.7,498.33,772.7,17,No
+272,Losartan 250mg Cream,Mankind,Losartan,7,250mg,Cream,Vial,171.88,129.67,171.88,46,No
+273,Metformin 5ml Injection,GSK,Metformin,2,5ml,Injection,Strip of 10,1002.39,596.59,1002.39,25,No
+274,Amoxicillin 250mg Syrup,Cipla,Amoxicillin,10,250mg,Syrup,Strip of 10,1061.97,593.39,1061.97,12,No
+275,Metformin 5ml Syrup,Cipla,Metformin,9,5ml,Syrup,Strip of 15,741.4,498.25,741.4,37,Yes
+276,Omeprazole 10mg Syrup,Sun Pharma,Omeprazole,6,10mg,Syrup,Tube 30g,584.43,330.59,584.43,40,Yes
+277,Atorvastatin 20mg Capsule,GSK,Atorvastatin,10,20mg,Capsule,Vial,853.25,543.23,853.25,23,No
+278,Losartan 20mg Injection,Abbott,Losartan,4,20mg,Injection,Strip of 15,680.75,421.75,680.75,13,Yes
+279,Azithromycin 650mg Tablet,Pfizer,Azithromycin,9,650mg,Tablet,Strip of 15,325.82,244.9,325.82,20,Yes
+280,Losartan 250mg Injection,Dr. Reddy's,Losartan,6,250mg,Injection,Vial,545.99,392.51,545.99,35,Yes
+281,Paracetamol 650mg Capsule,GSK,Paracetamol,8,650mg,Capsule,Strip of 15,754.56,391.94,754.56,12,No
+282,Losartan 5ml Cream,Sun Pharma,Losartan,10,5ml,Cream,Vial,152.21,107.4,152.21,52,No
+283,Amoxicillin 10mg Injection,Mankind,Amoxicillin,1,10mg,Injection,Bottle of 100ml,425.62,324.38,425.62,22,Yes
+284,Omeprazole 250mg Tablet,Cipla,Omeprazole,4,250mg,Tablet,Bottle of 100ml,675.01,399.29,675.01,46,Yes
+285,Metformin 10mg Tablet,Torrent,Metformin,10,10mg,Tablet,Tube 30g,436.4,308.54,436.4,29,Yes
+286,Atorvastatin 250mg Capsule,Mankind,Atorvastatin,1,250mg,Capsule,Tube 30g,1030.19,596.95,1030.19,51,No
+287,Amlodipine 250mg Injection,Abbott,Amlodipine,1,250mg,Injection,Tube 30g,238.61,174.27,238.61,38,No
+288,Pantoprazole 500mg Capsule,GSK,Pantoprazole,1,500mg,Capsule,Strip of 15,951.24,541.1,951.24,16,No
+289,Pantoprazole 650mg Capsule,Torrent,Pantoprazole,9,650mg,Capsule,Tube 30g,202.89,155.7,202.89,18,No
+290,Omeprazole 650mg Injection,Sun Pharma,Omeprazole,5,650mg,Injection,Bottle of 100ml,329.76,243.33,329.76,20,No
+291,Paracetamol 10mg Injection,Abbott,Paracetamol,8,10mg,Injection,Strip of 10,1040.7,561.49,1040.7,30,No
+292,Metformin 250mg Syrup,GSK,Metformin,2,250mg,Syrup,Bottle of 100ml,313.62,203.07,313.62,43,No
+293,Omeprazole 5ml Injection,Mankind,Omeprazole,1,5ml,Injection,Tube 30g,673.3,421.86,673.3,21,No
+294,Azithromycin 5ml Syrup,Sun Pharma,Azithromycin,4,5ml,Syrup,Vial,747.18,516.72,747.18,29,No
+295,Omeprazole 10mg Syrup,Abbott,Omeprazole,3,10mg,Syrup,Vial,999.27,531.59,999.27,57,No
+296,Paracetamol 650mg Tablet,GSK,Paracetamol,5,650mg,Tablet,Bottle of 100ml,555.93,403.09,555.93,17,No
+297,Cetirizine 10mg Injection,Sun Pharma,Cetirizine,9,10mg,Injection,Tube 30g,868.16,635.96,868.16,43,Yes
+298,Losartan 250mg Injection,Sun Pharma,Losartan,1,250mg,Injection,Tube 30g,504.44,264.94,504.44,17,No
+299,Omeprazole 250mg Syrup,Sun Pharma,Omeprazole,10,250mg,Syrup,Strip of 15,100.66,75.33,100.66,34,No
+300,Amoxicillin 10mg Injection,GSK,Amoxicillin,3,10mg,Injection,Strip of 15,441.94,264.31,441.94,45,Yes
